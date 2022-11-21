@@ -1,0 +1,40 @@
+*{
+    text-align: center;
+}
+.blok1{
+    background-color: rgb(231, 230, 230);
+    margin-left: 60px;
+    margin-right: 60px;
+    height: 80px;
+    
+}
+.blok2{
+    background-color: rgb(134, 240, 240);
+    height: 80px;
+    width: 310px;
+    margin-left: 60px;
+    margin-top: 1px;
+    float: left;
+    margin-bottom: 15px;
+}
+.blok3{
+    background-color: rgb(42, 209, 209);
+    height: 80px;
+    width: 170px;
+    margin-left: 1px;
+    margin-top: 1px;
+    float: left;
+    font-size: small;
+    margin-bottom: 15px;
+}
+.blok4{
+    background-color: rgb(7, 112, 112);
+    height: 80px;
+    width: 366px;
+    float: left;
+    font-size: small;
+    margin-left: 1px;
+    margin-top: 1px;
+    margin-bottom: 15px;
+    
+}
